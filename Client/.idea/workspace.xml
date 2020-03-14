@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Boost_Echo_Client" targetName="Boost_Echo_Client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2c859e3-e87a-478d-ab79-0234592682a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Vw7k6MDc9niF0EBKQ22n9n4paU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" singleton="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boost_Echo_Client" type="CMakeRunConfiguration" factoryName="Application" singleton="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boost_Echo_Client" TARGET_NAME="Boost_Echo_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Boost_Echo_Client" RUN_TARGET_NAME="Boost_Echo_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c859e3-e87a-478d-ab79-0234592682a4" name="Default Changelist" comment="" />
+      <created>1578152443160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578152443160</updated>
+      <workItem from="1578152444745" duration="2826000" />
+      <workItem from="1578750234180" duration="570000" />
+      <workItem from="1578750827533" duration="13881000" />
+      <workItem from="1578848269053" duration="7749000" />
+      <workItem from="1578944455900" duration="5896000" />
+      <workItem from="1578985103466" duration="3639000" />
+      <workItem from="1579003257056" duration="7923000" />
+      <workItem from="1579075745610" duration="548000" />
+      <workItem from="1579099835794" duration="183000" />
+      <workItem from="1579100056779" duration="4185000" />
+      <workItem from="1579174602588" duration="333000" />
+      <workItem from="1579187745872" duration="8300000" />
+      <workItem from="1579254529058" duration="603000" />
+      <workItem from="1579261631731" duration="2161000" />
+      <workItem from="1579266351346" duration="12596000" />
+      <workItem from="1579353362845" duration="12219000" />
+      <workItem from="1579372933234" duration="688000" />
+      <workItem from="1579373916337" duration="5594000" />
+      <workItem from="1579437458833" duration="9502000" />
+      <workItem from="1579447547314" duration="6771000" />
+      <workItem from="1579455223910" duration="352000" />
+      <workItem from="1579455605549" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579445036608">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579445036608" />
+    <state x="555" y="231" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578950239394">
+      <screen x="67" y="27" width="1373" height="783" />
+    </state>
+    <state x="555" y="231" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1373.783@67.27.1373.783" timestamp="1578950239394" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578849935171" />
+    <state x="700" y="226" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579455272766">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="536" y="175" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.783@67.27.1373.783" timestamp="1579375049903" />
+    <state x="700" y="226" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579455272766" />
+    <state width="880" height="289" key="GridCell.Tab.0.bottom" timestamp="1579454587187">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="526" key="GridCell.Tab.0.bottom/67.27.1373.783@67.27.1373.783" timestamp="1579263728146" />
+    <state width="880" height="289" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587187" />
+    <state width="880" height="289" key="GridCell.Tab.0.center" timestamp="1579454587187">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="526" key="GridCell.Tab.0.center/67.27.1373.783@67.27.1373.783" timestamp="1579263728145" />
+    <state width="880" height="289" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587187" />
+    <state width="880" height="289" key="GridCell.Tab.0.left" timestamp="1579454587187">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="526" key="GridCell.Tab.0.left/67.27.1373.783@67.27.1373.783" timestamp="1579263728144" />
+    <state width="880" height="289" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587187" />
+    <state width="880" height="289" key="GridCell.Tab.0.right" timestamp="1579454587187">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="526" key="GridCell.Tab.0.right/67.27.1373.783@67.27.1373.783" timestamp="1579263728145" />
+    <state width="880" height="289" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587187" />
+    <state width="881" height="272" key="GridCell.Tab.1.bottom" timestamp="1579454587152">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="73" key="GridCell.Tab.1.bottom/67.27.1373.783@67.27.1373.783" timestamp="1579262737188" />
+    <state width="881" height="272" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587152" />
+    <state width="881" height="272" key="GridCell.Tab.1.center" timestamp="1579454587151">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="73" key="GridCell.Tab.1.center/67.27.1373.783@67.27.1373.783" timestamp="1579262737188" />
+    <state width="881" height="272" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587151" />
+    <state width="881" height="272" key="GridCell.Tab.1.left" timestamp="1579454587150">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="73" key="GridCell.Tab.1.left/67.27.1373.783@67.27.1373.783" timestamp="1579262737188" />
+    <state width="881" height="272" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587149" />
+    <state width="881" height="272" key="GridCell.Tab.1.right" timestamp="1579454587151">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1327" height="73" key="GridCell.Tab.1.right/67.27.1373.783@67.27.1373.783" timestamp="1579262737188" />
+    <state width="881" height="272" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579454587151" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1579455312247">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579455312247" />
+    <state x="707" y="196" width="563" height="713" key="refactoring.ChangeSignatureDialog" timestamp="1578851145357">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="707" y="196" width="563" height="713" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578851145357" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1578757262347">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1578757262347" />
+  </component>
+</project>
